@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pascalpalata@gmail.com
+	name = pascal palata
